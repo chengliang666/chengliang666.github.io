@@ -7,8 +7,8 @@ comments: false
 ---
 
 # 个人简介
-毕业于新余学院计算机网络专业，毕业后在从事前端方向工作。四年的工作经验使我熟悉前端开发的企业架构，能够独立负责开发整个服务端。
-熟悉企业级常用的技术： vue+vue-router+vuex、react+react-router+react-redux、react-native、git、js+css+html、jq、es5/6等。
+毕业于新余学院计算机网络专业，毕业后在从事前端方向工作。四年的工作经验使我熟悉前端开发的企业架构，能够独立负责开发整个前端服务。
+熟悉企业级常用的技术：vue+vue-router+vuex、react+react-router+react-redux、react-native、git、js+css+html、jq、es5/6等。
 熟悉使用企业级常用的工具：zentaopro、gitlab、Jenkins等。
 
 比较喜欢将工作中碰到的问题和自己学习的心得笔记记录下来，方便自己以后查看。同时也方便和广大同胞进行交流互动。

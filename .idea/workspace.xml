@@ -1,67 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="616c9012-ef28-4643-8ced-1ce1a4b275a5" name="Default Changelist" comment="add blog">
+    <list default="true" id="616c9012-ef28-4643-8ced-1ce1a4b275a5" name="Default Changelist" comment="updata blog">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/source/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/UE激活（亲测有效，通过注册机激活）.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/centOS7 安装nginx.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/kafka也没那么难--kafka的安装与简单使用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/《剑指offer》之二叉树的深度.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/《剑指offer》之从上往下打印二叉树.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/《剑指offer》之反转链表.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/《剑指offer》之和为S的两个数字.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/《剑指offer》之和为S的连续正数序列.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/《剑指offer》之扑克牌顺子.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/《剑指offer》之斐波那契数列系列.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/《剑指offer》之栈的压入、弹出序列.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/《剑指offer》之顺时针打印矩阵.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/一、Redis安装.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/一、Vue 世界初探.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_posts/一、Vue 世界初探.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/一、docker 入坑(win10和Ubuntu 安装).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/一、springboot起航.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/一、让我们开启单元测试之旅.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/七、Redis持久化的两种方式RDB和AOF理解.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/七、springBoot 简单优雅是实现文件上传和下载.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/三、DockerFile 定制属于自己的专属镜像.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/三、Redis在SpringBoot中使用案例.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/三、Spring Cloud之软负载均衡 Ribbon.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/三、SpringBoot 整合mybatis 多数据源以及分库分表.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/三、Vue 的一些语法样例.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_posts/三、Vue 的一些语法样例.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/九、Spring Boot 优雅的实现CORS跨域.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/二、Spring Cloud之注册中心 Eureka.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/二、Vue 页面渲染过程.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/_posts/二、Vue 页面渲染过程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/二、docker 镜像容器常用操作(让我们用docker 溜得飞起).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/二、springBoot 整合 mybatis 项目实战.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/二、设置Redis远程访问.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/五、Spring Cloud之网关服务 zuul.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/五、docker-compose开锋（docker 三剑客）.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/五、redis配置信息以及常用命令.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/五、springboot 简单优雅是实现邮件服务.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/八、redis集群.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/八、springboot 简单优雅的通过docker-compose 构建.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/六、Spring Cloud之配置中心config.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/六、springboot 简单优雅是实现短信服务.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/六、主从复制原来这么简单.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/内网穿透ngrok_ngrokcc_cpolar.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/十、Spring boot 简单优雅的整合 Swagger2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/十一、springboot 配置log4j2以及打包成zip文件.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/十三、springboot 优雅集成spring-boot-admin 实现程序监控.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/十二、SpringBoot 优雅的集成Spring Security.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/升级nginx ,为nginx配置https证书.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/四、Spring Cloud之熔断处理 Hystrix.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/四、StringRedisTemplate 和RedisTemlate有什么不同.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/四、docker 仓库(让我们的镜像有处可存).md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/四、springBoot 优雅的创建定时任务.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/如何优雅实现属性的动态注入.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/将个人博客迁移到云服务器上.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/简单优雅的搭建个人博客.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/_posts/调第三方厂家接口实现文件文件上传httpclient.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/about/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/blog/themes/next/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/themes/next/source/images/reward/alipay.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/themes/next/source/images/reward/alipay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/themes/next/source/images/reward/wechatpay.png" beforeDir="false" afterPath="$PROJECT_DIR$/blog/themes/next/source/images/reward/wechatpay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/source/baidu_verify_AJ4ZyZtJ1G.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/source/baidu_verify_VnGNcnxN40.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/source/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/robots.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +61,7 @@
       <workItem from="1628069165730" duration="77000" />
       <workItem from="1628073307012" duration="2870000" />
       <workItem from="1628502187995" duration="13447000" />
-      <workItem from="1628585542102" duration="13023000" />
+      <workItem from="1628585542102" duration="20212000" />
     </task>
     <task id="LOCAL-00001" summary="添加站点根目录">
       <created>1628069231625</created>
@@ -173,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628579160401</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="updata blog">
+      <created>1628654124702</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1628654124702</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +151,7 @@
     <MESSAGE value="add blog hexo theme" />
     <MESSAGE value="add blog page" />
     <MESSAGE value="add blog" />
-    <option name="LAST_COMMIT_MESSAGE" value="add blog" />
+    <MESSAGE value="updata blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="updata blog" />
   </component>
 </project>
