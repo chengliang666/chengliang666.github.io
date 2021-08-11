@@ -1,6 +1,6 @@
 ﻿layout: post
 title: 二、Vue 页面渲染过程
-author: QuellanAn
+author: chengliang666
 categories: 
   - vue
 tags:
@@ -74,15 +74,16 @@ script 中的代码则是脚本代码。
 # 番外
 我们项目的流程就讲到这里把，算是对上篇的补充，让我们对项目启动，界面渲染算是有一个大概的了解啦，我们接下来就按照官网上讲一下vue 的一些语法和特性，但是与官网上不同的是，官网上都是一个个的html,而我们就在这个项目的基础的上。将会是一个个的vue 文件。
  
- 代码上传到github：
-https://github.com/QuellanAn/zlflovemmVue
+[comment]: <> ( 代码上传到github：)
+
+[comment]: <> (https://github.com/QuellanAn/zlflovemmVue)
 
 后续加油♡
 
-欢迎大家关注个人公众号 "程序员爱酸奶"
+[comment]: <> (欢迎大家关注个人公众号 "程序员爱酸奶")
 
-分享各种学习资料，包含java，linux，大数据等。资料包含视频文档以及源码，同时分享本人及投递的优质技术博文。
+[comment]: <> (分享各种学习资料，包含java，linux，大数据等。资料包含视频文档以及源码，同时分享本人及投递的优质技术博文。)
 
 如果大家喜欢记得关注和分享哟❤
 
-![file](https://img-blog.csdnimg.cn/20191015213334732.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3NzkwMDEx,size_16,color_FFFFFF,t_70)
+[comment]: <> (![file]&#40;https://img-blog.csdnimg.cn/20191015213334732.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3NzkwMDEx,size_16,color_FFFFFF,t_70&#41;)

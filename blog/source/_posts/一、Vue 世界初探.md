@@ -1,6 +1,6 @@
 ﻿layout: post
 title: 一、Vue 世界初探
-author: QuellanAn
+author: chengliang666
 categories: 
   - vue
 tags:
@@ -9,9 +9,11 @@ tags:
 ---
 # 前言
 
-我们后端用SpringBoot 框架已经搭建的差不多了之前，既然我们最初的梦想是做先后端分离的架手架，终于也开始学习一下前端的框架了。自己也算是前端小白，所以将自己学习vue 的过程记录系列博客。希望对学习vue 的小伙伴有帮助，用时文章中有不对的，希望大家及时提出一起探讨。
+此文对于前端小白，或者刚入门的后端开发学习。
 
-至于为什么要使用vue ,虽然是一个前端小白，但是还是知道当前主流的三大框架，Angular、React以及Vue .优劣我就不说了，我就说说我为什么选择vue 吧。其实还是因为毕竟是后端开发，对前端的东西不要求深入理解，做到能用能复制就好了。所以基本上是本着最小学习成本来的。所以相对Angular 和React来说，vue 算是上手最快的，所以也就入坑了。自己话了一周的时间预研，勉强算自己入门了吧，所以才开始写博客记录下来，这样也算是对自己学习的内容的整理，也可以记录下来方便大家。
+[comment]: <> (后端用SpringBoot 框架已经搭建的差不多了之前，既然我们最初的梦想是做先后端分离的架手架，终于也开始学习一下前端的框架了。自己也算是前端小白，所以将自己学习vue 的过程记录系列博客。希望对学习vue 的小伙伴有帮助，用时文章中有不对的，希望大家及时提出一起探讨。)
+
+[comment]: <> (至于为什么要使用vue ,虽然是一个前端小白，但是还是知道当前主流的三大框架，Angular、React以及Vue .优劣我就不说了，我就说说我为什么选择vue 吧。其实还是因为毕竟是后端开发，对前端的东西不要求深入理解，做到能用能复制就好了。所以基本上是本着最小学习成本来的。所以相对Angular 和React来说，vue 算是上手最快的，所以也就入坑了。自己话了一周的时间预研，勉强算自己入门了吧，所以才开始写博客记录下来，这样也算是对自己学习的内容的整理，也可以记录下来方便大家。)
 
 
 # 学习地址
@@ -197,18 +199,19 @@ main.js 废代码。没有实际意义，但是为了支撑整个vuejs框架，�
  # 番外
  到此为止，我们也算是将vue安装成功了，并运行一个非常简单的例子。
  
- 代码上传到github：
-https://github.com/QuellanAn/zlflovemmVue
+[comment]: <> ( 代码上传到github：)
+
+[comment]: <> (https://github.com/QuellanAn/zlflovemmVue)
 
 后续加油♡
 
-欢迎大家关注个人公众号 "程序员爱酸奶"
+[comment]: <> (欢迎大家关注个人公众号 "程序员爱酸奶")
 
-分享各种学习资料，包含java，linux，大数据等。资料包含视频文档以及源码，同时分享本人及投递的优质技术博文。
+[comment]: <> (分享各种学习资料，包含java，linux，大数据等。资料包含视频文档以及源码，同时分享本人及投递的优质技术博文。)
 
 如果大家喜欢记得关注和分享哟❤
 
-![file](https://img-blog.csdnimg.cn/20191015213334732.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3NzkwMDEx,size_16,color_FFFFFF,t_70)
+[comment]: <> (![file]&#40;https://img-blog.csdnimg.cn/20191015213334732.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3NzkwMDEx,size_16,color_FFFFFF,t_70&#41;)
  
 
 

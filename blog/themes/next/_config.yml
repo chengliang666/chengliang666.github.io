@@ -52,7 +52,7 @@ footer:
   since: 2017
 
   # visitors count
-  counter: true  
+  counter: true
   # Icon between year and copyright info.
   icon:
     # Icon name in fontawesome, see: https://fontawesome.com/v4.7.0/icons/
@@ -64,7 +64,7 @@ footer:
     color: "#ff0000"
 
   # If not defined, `author` from Hexo main config will be used.
-  copyright: Quellanan
+  copyright: chengliang666
 
   powered:
     # Hexo link (Powered by Hexo).
@@ -82,7 +82,7 @@ footer:
   # http://www.beian.miit.gov.cn
   beian:
     enable: true
-    icp: 鄂ICP备20002824号
+    icp: 粤ICP备20002824号
 
   # Any custom text can be defined here.
   #custom_text: Hosted by <a href="https://pages.coding.me" class="theme-link" rel="noopener" target="_blank">Coding Pages</a>
@@ -102,7 +102,7 @@ creative_commons:
 # `Follow me on GitHub` banner in the top-right corner.
 github_banner:
   enable: false
-  permalink: https://github.com/quellanan
+  permalink: https://github.com/chengliang666
   title: Follow me on GitHub
 
 
@@ -200,12 +200,12 @@ site_state: true
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/quellanan || github
-  CSDN: https://blog.csdn.net/qq_27790011 || CSDN
-  博客园: https://www.cnblogs.com/quellanan/
-  简书: https://www.jianshu.com/u/50ba1aa097c8
-  掘金: https://juejin.im/user/5bfb4ce9f265da611204b096
-  QQ: tencent://message/?uin=1186154608&Site=&menu=yes || qq
+  GitHub: https://github.com/chengliang666 || github
+  CSDN: https://blog.csdn.net/chengliang666 || CSDN
+  博客园: https://www.cnblogs.com/chengliang666
+  #简书: https://www.jianshu.com/u/50ba1aa097c8
+  #掘金: https://juejin.im/user/5bfb4ce9f265da611204b096
+  QQ: tencent://message/?uin=3153113583&Site=&menu=yes || qq
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
   #VK Group: https://vk.com/yourname || vk
@@ -222,7 +222,7 @@ social_icons:
   掘金: crosshairs
   icons_only: false
   transition: false
-  
+
 
 
 # Blog rolls
@@ -231,8 +231,8 @@ links_title: 推荐阅读
 #links_layout: block
 links_layout: inline
 links:
-  springBoot实战: https://blog.csdn.net/qq_27790011/article/category/9361908
-  Redis 必知必会: https://blog.csdn.net/qq_27790011/article/category/9187012
+#  springBoot实战: https://blog.csdn.net/qq_27790011/article/category/9361908
+#  Redis 必知必会: https://blog.csdn.net/qq_27790011/article/category/9187012
 
 # Sidebar Avatar
 avatar:
@@ -456,7 +456,7 @@ font:
   enable: true
 
   # Uri of fonts host, e.g. //fonts.googleapis.com (Default).
-  host: 
+  host:
 
   # Font options:
   # `external: true` will load this font family from `host` above.
@@ -494,7 +494,7 @@ font:
     external: true
     family: Roboto Mono
     size:
- 
+
 # ---------------------------------------------------------------
 # Third Party Services Settings
 # See: https://theme-next.org/docs/third-party-services/
@@ -1223,6 +1223,6 @@ images: images
 passage_end_tag:
   enabled: true
 
-# Online contact 
-daovoice: true
-daovoice_app_id: b5fbffa8
+# Online contact
+# daovoice: true
+# daovoice_app_id: b5fbffa8

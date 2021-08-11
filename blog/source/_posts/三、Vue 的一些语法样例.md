@@ -1,6 +1,6 @@
 ﻿layout: post
 title: 三、Vue 的一些语法样例
-author: QuellanAn
+author: chengliang666
 categories: 
   - vue
 tags:
@@ -311,15 +311,16 @@ proxyTable: {
 # 番外
  这篇就讲到这吧，都是一些例子。如果要看语法的话，还得看看官网的教程。
  
- 代码上传到github：
-https://github.com/QuellanAn/zlflovemmVue
+[comment]: <> ( 代码上传到github：)
+
+[comment]: <> (https://github.com/QuellanAn/zlflovemmVue)
 
 后续加油♡
 
-欢迎大家关注个人公众号 "程序员爱酸奶"
+[comment]: <> (欢迎大家关注个人公众号 "程序员爱酸奶")
 
-分享各种学习资料，包含java，linux，大数据等。资料包含视频文档以及源码，同时分享本人及投递的优质技术博文。
+[comment]: <> (分享各种学习资料，包含java，linux，大数据等。资料包含视频文档以及源码，同时分享本人及投递的优质技术博文。)
 
 如果大家喜欢记得关注和分享哟❤
 
-![file](https://img-blog.csdnimg.cn/20191015213334732.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3NzkwMDEx,size_16,color_FFFFFF,t_70)
+[comment]: <> (![file]&#40;https://img-blog.csdnimg.cn/20191015213334732.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzI3NzkwMDEx,size_16,color_FFFFFF,t_70&#41;)
