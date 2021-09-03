@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="616c9012-ef28-4643-8ced-1ce1a4b275a5" name="Default Changelist" comment="updata blog">
+    <list default="true" id="616c9012-ef28-4643-8ced-1ce1a4b275a5" name="Default Changelist" comment="Site verify">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/about/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/baidu_verify_AJ4ZyZtJ1G.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/baidu_verify_VnGNcnxN40.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/source/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/blog/source/robots.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +56,7 @@
       <workItem from="1628069165730" duration="77000" />
       <workItem from="1628073307012" duration="2870000" />
       <workItem from="1628502187995" duration="13447000" />
-      <workItem from="1628585542102" duration="20212000" />
+      <workItem from="1628585542102" duration="22220000" />
     </task>
     <task id="LOCAL-00001" summary="添加站点根目录">
       <created>1628069231625</created>
@@ -126,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628654124702</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Site verify">
+      <created>1628672404034</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1628672404034</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +154,7 @@
     <MESSAGE value="add blog page" />
     <MESSAGE value="add blog" />
     <MESSAGE value="updata blog" />
-    <option name="LAST_COMMIT_MESSAGE" value="updata blog" />
+    <MESSAGE value="Site verify" />
+    <option name="LAST_COMMIT_MESSAGE" value="Site verify" />
   </component>
 </project>
