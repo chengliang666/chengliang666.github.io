@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://chengliang666.github.io/"/>
-  <updated>2021-09-09T08:14:01.485Z</updated>
+  <updated>2021-09-09T08:31:41.086Z</updated>
   <id>https://chengliang666.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>Git版本回退之 reset 和 revert</title>
     <link href="https://chengliang666.github.io/20210909/Git%E7%89%88%E6%9C%AC%E5%9B%9E%E9%80%80%E4%B9%8B%20reset%20%E5%92%8C%20revert.html"/>
     <id>https://chengliang666.github.io/20210909/Git版本回退之 reset 和 revert.html</id>
     <published>2021-09-09T08:08:00.474Z</published>
-    <updated>2021-09-09T08:14:01.485Z</updated>
+    <updated>2021-09-09T08:31:41.086Z</updated>
     
     <summary type="html">
     
@@ -35,6 +35,16 @@
     
     </summary>
     
+      <category term="git" scheme="https://chengliang666.github.io/categories/git/"/>
+    
+    
+      <category term="git" scheme="https://chengliang666.github.io/tags/git/"/>
+    
+      <category term="reset" scheme="https://chengliang666.github.io/tags/reset/"/>
+    
+      <category term="revert" scheme="https://chengliang666.github.io/tags/revert/"/>
+    
+      <category term="版本回退" scheme="https://chengliang666.github.io/tags/%E7%89%88%E6%9C%AC%E5%9B%9E%E9%80%80/"/>
     
   </entry>
   
