@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="616c9012-ef28-4643-8ced-1ce1a4b275a5" name="Default Changelist" comment="Site verify">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="616c9012-ef28-4643-8ced-1ce1a4b275a5" name="Default Changelist" comment="delete vant-base-demo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/blog/source/_posts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../site" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -57,6 +55,7 @@
       <workItem from="1628073307012" duration="2870000" />
       <workItem from="1628502187995" duration="13447000" />
       <workItem from="1628585542102" duration="22220000" />
+      <workItem from="1630651211894" duration="529000" />
     </task>
     <task id="LOCAL-00001" summary="添加站点根目录">
       <created>1628069231625</created>
@@ -128,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628672404034</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="delete vant-base-demo">
+      <created>1630651594951</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1630651594951</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +161,7 @@
     <MESSAGE value="add blog" />
     <MESSAGE value="updata blog" />
     <MESSAGE value="Site verify" />
-    <option name="LAST_COMMIT_MESSAGE" value="Site verify" />
+    <MESSAGE value="delete vant-base-demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete vant-base-demo" />
   </component>
 </project>
