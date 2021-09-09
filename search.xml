@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>%2F20210909%2FGit%E7%89%88%E6%9C%AC%E5%9B%9E%E9%80%80%E4%B9%8B%20reset%20%E5%92%8C%20revert.html</url>
+    <content type="text"><![CDATA[layout: posttitle: Git版本回退之 reset 和 revertauthor: chengliang666categories: gittags: git reset revert 版本回退前言 在开发过程中，可能会遇到过错误提交的情况。这种情况下，先不要着急，可以通过以下两个命令来帮助你优雅的实现版本回退。 git reset假如现在有如下几个提交： 其中：A 和 B 是正常提交，而 C 和 D 是错误提交。现在想把 C 和 D 回退掉。而此时HEAD 指针指向 D 提交（5lk4er）。我们只需将 HEAD 指针移动到 B 提交（a0fvf8），即可。 这个时候就可以使用git reset 命令： 12git reset --hard a0fvf8 // 将HEAD指针移动到B提交点git push origin HEAD --force // 将提交强制推到远程仓库 此时HEAD指针就会移动到 B 提交下 采用这种方式回退代码会使 HEAD 指针往回移动，从而会失去之后的提交信息且不可恢复，所以要慎重使用。 git revertgit revert会创建一个新的版本，且HEAD指针会指向这个新生成的版本，原来错误提交信息也可以保留。 可以通过用git revert 命令逐个回退： 12git revert 5lk4ergit revert 76sdeb 回退版本少的可以逐个回退，多的话就要批量回退了： 1git revert OLDER_COMMIT^..NEWER_COMMIT 通过对比发现，git reset 会失去后面的提交，而 git revert 是通过反做的方式重新创建一个新的提交，而保留原有的提交。所以应尽量使用 git revert 命令来回退版本，慎重使用 git reset 命令。 补充假如现在有三个提交，不巧的是那个错误的提交刚好位于中间 此时直接使用 git reset 命令将 HEAD 指针重置到 A 提交显然是不行的，因为 C 提交是正确的，需要保留的。 正确的做法：先把 C 和 B 提交全部回退，再使用 cherry-pick 命令将 C 提交重新再生成一个新的提交 C’’，这样就实现了将 B提交回退的需求。 后续加油♡ 如果大家喜欢记得关注和分享哟❤]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Node版本的升级和降级之node版本管理工具nvm]]></title>
     <url>%2F20210811%2FNode%E7%89%88%E6%9C%AC%E7%9A%84%E5%8D%87%E7%BA%A7%E5%92%8C%E9%99%8D%E7%BA%A7%E4%B9%8Bnode%E7%89%88%E6%9C%AC%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7nvm.html</url>
     <content type="text"><![CDATA[前言有时候，不同的项目需要使用不同的node版本。我们可以使用nvm管理不同的node版本。 下载安装nvm下载地址下载后解压直接下一步，下一步，安装完成即可 注意：为避免出现bug，安装路径默认即可，如需更改安装路径请注意文件名不要有中文和空格 常用nvm命令查看安装过的node版本 nvm list安装某个node版本 nvm install &lt;version&gt; 使用某个node版本 nvm use&lt;version&gt; 卸载某个node版本 nvm uninstall &lt;version&gt; 后续加油♡ 如果大家喜欢记得关注和分享哟❤]]></content>
